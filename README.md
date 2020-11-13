@@ -25,6 +25,7 @@ operative_system : user operative system. Can be: "windows", "linux", "mac" for 
 test: whether the user was in the test (i.e. 1 -> higher price) or in control (0 -> old lower price)<br />
 price : the price the user sees. It should match test<br />
 converted : whether the user converted (i.e. 1 -> bought the software) or not (0 -> left the site without buying it).<br />
+
 2) "user_table" - Information about the user<br />
 
 Columns:<br />
